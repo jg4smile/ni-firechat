@@ -1,0 +1,8 @@
+{
+  "name": "ni-firechat",
+  "app_id": "7d51bf26",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}

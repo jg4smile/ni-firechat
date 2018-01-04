@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "319304131070",
+    "firebase_url": "https://northstar-firechat.firebaseio.com",
+    "project_id": "northstar-firechat",
+    "storage_bucket": "northstar-firechat.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:319304131070:android:faf6bff92fbbc866",
+        "android_client_info": {
+          "package_name": "com.vnd.nifirechat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "319304131070-drmkjitbv7h8q3d25k25cuevm23obo23.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.vnd.nifirechat",
+            "certificate_hash": "c7de495e7206c033661b699d27d67529494d3ea6"
+          }
+        },
+        {
+          "client_id": "319304131070-r3d2sbepl770vq2j6fhkrdedj7n98du1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJvUVTUY2znTTr8odWcqlJpzfVHm3rFbg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "319304131070-r3d2sbepl770vq2j6fhkrdedj7n98du1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
